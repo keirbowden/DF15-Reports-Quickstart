@@ -24,14 +24,14 @@ Salesforce reports and dashboards allow you to create compelling dashboards to p
 
     ![](images/summary.png)
     
-3. From the Fields list on the left hand side of the page, drag the Stage field (under the Opportunity Information folder icon) and drop this into the preview section entitled **Drag a field here to create a grouping**
-5. Click the **Save** button
-6. Name your report **Opportunities by Stage** and tab out of the field to automatically populate the **Report Unique Name** field. Leave all other inputs as they are
+3. From the Fields list on the left hand side of the page, drag the Stage field (under the Opportunity Information folder icon) and drop this into the preview section entitled **Drag a field here to create a grouping**  
+5. Click the **Save** button  
+6. Name your report **Opportunities by Stage** and tab out of the field to automatically populate the **Report Unique Name** field. Leave all other inputs as they are  
 7. Click the **Save and Run Report** button - this executes the report and shows all opportunities in the org grouped by their Stage
 
 ##Step 3: Create a Dashboard
-1. Click on the **Reports** tab  
-2. Click the **New Dashboard** button  
+1. Click on the **Reports** tab   
+2. Click the **New Dashboard** button   
 3. Click and hold the vertical bar chart icon from the **Components** section on the left hand side of the page and drag into the first column
 
     ![](images/dbvbcomp.png)
