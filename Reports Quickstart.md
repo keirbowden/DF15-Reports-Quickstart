@@ -13,7 +13,7 @@ Salesforce reports and dashboards allow you to create compelling dashboards to p
 
     ![](images/selrep.png)
     
-5. Click the 'Create' button to create the report - this will take you to the report builder page to configure your new report
+5. Click the **Create** button to create the report - this will take you to the report builder page to configure your new report
 
 ##Step 2: Configure the Report
 1. In the **Filters** section click the **Range** filter for the **Close Date** field and choose **All Time** - the preview section will update with details of all opportunities
@@ -24,7 +24,7 @@ Salesforce reports and dashboards allow you to create compelling dashboards to p
 
     ![](images/summary.png)
     
-3. From the Fields list on the left hand side of the page, drag the Stage field (under the Opportunity Information folder icon) and drop this into the preview section entitled **Drag a field here to create a grouping**  
+3. From the Fields list on the left hand side of the page, drag the **Stage** field (under the *Opportunity Information* folder icon) and drop this into the preview section entitled **Drag a field here to create a grouping**  
 
 4. Click the **Save** button  
 
